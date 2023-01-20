@@ -4,7 +4,7 @@ import edu.kis.vh.nursery.defaultCountingOutRhymer;
 import edu.kis.vh.nursery.FIFORhymer;
 import edu.kis.vh.nursery.HanoiRhymer;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
-
+//Zweryfikowałem działanie kombinacji alt + stzałka pozwala mi na przeskakiwanie pomiędzy otwartymi plikami.
 public class DefaultRhymersFactory implements Rhymersfactory {
 
 	@Override
